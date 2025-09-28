@@ -1,0 +1,5 @@
+{
+    "mode": "test",
+    "version": "0.1",
+    "features": ["idea-generation", "trend-analysis"]
+}
